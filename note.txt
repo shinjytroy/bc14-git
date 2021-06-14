@@ -20,3 +20,4 @@ git add .
 => Tạo ra 1 branch nhánh mới từ branch hiện tại, sau khi tạo branch nó sẽ tự động chuyển sang branch mới
 - git checkout branch-name
 => Chuyển sang branch-name
+abc
