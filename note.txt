@@ -5,8 +5,10 @@ Tất cả câu lệnh: terminal command
 
 # Các câu lệnh của git
 "git clone https://github.com/shinjytroy/bc14-git.git" tải source code về máy tính
-git status: Kiểm tra trạng thái của các file
+git status 
+=>Kiểm tra trạng thái của các file lần thay đổi cuối cùng
+
 git add file-name
- EX: git add index.html : Xác nhận index.htm này sẽ được thêm mới hoặc thay đổi
+=>EX: git add index.html : Xác nhận index.htm này sẽ được thêm mới hoặc thay đổi
 git add .
- Xác nhận thêm tất cả các file vừa thêm mới vào vùng staging   
+=>Xác nhận thêm tất cả các file vừa thêm mới vào vùng staging   
