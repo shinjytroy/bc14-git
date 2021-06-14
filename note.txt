@@ -16,3 +16,7 @@ git add .
 => Commit nhưng file đã thay đổi ở phân vùng staging, đua vào phân vùng local responsitory và kèm theo 1 messenge
 - git push
 => Push những thay đổi đã qua commit từ Local Responsitory lên Remote Responsitory
+- git checkout -b branch-name
+=> Tạo ra 1 branch nhánh mới từ branch hiện tại, sau khi tạo branch nó sẽ tự động chuyển sang branch mới
+- git checkout branch-name
+=> Chuyển sang branch-name
