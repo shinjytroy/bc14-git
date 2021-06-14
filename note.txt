@@ -12,3 +12,7 @@ git add file-name
 =>EX: git add index.html : Xác nhận index.htm này sẽ được thêm mới hoặc thay đổi
 git add .
 =>Xác nhận thêm tất cả các file vừa thêm mới vào vùng staging   
+- git commit -m "message"
+=> Commit nhưng file đã thay đổi ở phân vùng staging, đua vào phân vùng local responsitory và kèm theo 1 messenge
+- git push
+=> Push những thay đổi đã qua commit từ Local Responsitory lên Remote Responsitory
