@@ -16,3 +16,5 @@ git add .
 => Commit nhưng file đã thay đổi ở phân vùng staging, đua vào phân vùng local responsitory và kèm theo 1 messenge
 - git push
 => Push những thay đổi đã qua commit từ Local Responsitory lên Remote Responsitory
+## Demo đụng độ code
+## Demo đụng độ code
